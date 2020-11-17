@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/placido/.dotnet/store/|arch|/|tfm|",
+      "/home/placido/.nuget/packages"
+    ]
+  }
+}
